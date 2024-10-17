@@ -8,6 +8,9 @@ User Interface: Simple and intuitive design for easy navigation and gameplay.<br
 Responsive: Optimized for Android.<br>
 Reset: Allows you to restart the game at any time.<br>
 
+# 📸 Screenshots
+<p align="center"> <img src="C:\Users\POORVI\OneDrive\Pictures\Screenshots\Screenshot 2024-10-17 192031.png" width="250" alt="Home Screen"> <img src="C:\Users\POORVI\OneDrive\Pictures\Screenshots\Screenshot 2024-10-17 192037.png" width="250" alt="Game Screen"> <img src="C:\Users\POORVI\OneDrive\Pictures\Screenshots\Screenshot 2024-10-17 192046.png" width="250" alt="Draw Screen"> </p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
