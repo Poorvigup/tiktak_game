@@ -1,4 +1,4 @@
-TikTak Game - Flutter
+# TikTak Game - Flutter
 Welcome to TikTak Game 🎮 - a simple and fun Tic-Tac-Toe game built with Flutter! This project serves as a great way to learn Flutter and provides a fully functional, interactive game experience that can be played with two players locally.
 # tiktak_game
 
