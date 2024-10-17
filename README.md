@@ -8,15 +8,16 @@ User Interface: Simple and intuitive design for easy navigation and gameplay.<br
 Responsive: Optimized for Android.<br>
 Reset: Allows you to restart the game at any time.<br>
 
-## Getting Started
+## 📱 Platforms
+This app supports Android platform.
 
-This project is a starting point for a Flutter application.
+## 💻 Requirements
+Flutter SDK (>= 3.19.0)<br>
+Dart (>= 3.3)<br>
+Android Studio or VS Code or a connected device<br>
 
-A few resources to get you started if this is your first Flutter project:
+## 📬 Contact
+If you have any questions or suggestions, feel free to reach out!<br><br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Poorvi Gupta<br>
+poorviguptacom@gmail.com<br>
