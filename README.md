@@ -5,7 +5,7 @@ Welcome to TikTak Game 🎮 - a simple and fun Tic-Tac-Toe game built with Flutt
 Two-Player Mode: Play against a friend on the same device.<br>
 Game Logic: Automatically checks for winners and updates the score.<br>
 User Interface: Simple and intuitive design for easy navigation and gameplay.<br>
-Responsive: Optimized for both Android and iOS devices.<br>
+Responsive: Optimized for Android.<br>
 Reset: Allows you to restart the game at any time.<br>
 
 ## Getting Started
